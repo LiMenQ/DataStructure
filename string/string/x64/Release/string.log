@@ -1,0 +1,11 @@
+﻿  test.cpp
+D:\gitee\data-structure\string\string\string.h(141,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(142,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(163,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(214,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 22 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  string.vcxproj -> D:\gitee\data-structure\string\x64\Release\string.exe

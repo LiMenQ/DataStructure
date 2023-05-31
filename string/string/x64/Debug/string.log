@@ -1,0 +1,10 @@
+﻿  test.cpp
+D:\gitee\data-structure\string\string\string.h(142,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(143,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(164,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(214,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(225,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(228,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\string.h(285,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitee\data-structure\string\string\test.cpp(79,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  string.vcxproj -> D:\gitee\data-structure\string\x64\Debug\string.exe
